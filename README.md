@@ -138,7 +138,7 @@ SIYA has her own animated promo website:
 <div align="center">
 
 <a href="https://shravanssg.github.io/Siya-AI/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=22D3EE&center=true&vCenter=true&width=520&lines=%F0%9F%91%89+shinchanssg.github.io%2FSiya-AI;Click+to+open+the+website+%E2%9C%A8" alt="Website link animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=22D3EE&center=true&vCenter=true&width=520&lines=%F0%9F%91%89+shravanssg.github.io%2FSiya-AI;Click+to+open+the+website+%E2%9C%A8" alt="Website link animation" />
 </a>
 
 </div>
